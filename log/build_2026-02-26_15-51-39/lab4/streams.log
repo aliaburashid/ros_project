@@ -1,0 +1,24 @@
+[3.800s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab4': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab4 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/install.log --single-version-externally-managed
+[4.502s] running egg_info
+[4.505s] writing ../../build/lab4/lab4.egg-info/PKG-INFO
+[4.511s] writing dependency_links to ../../build/lab4/lab4.egg-info/dependency_links.txt
+[4.516s] writing entry points to ../../build/lab4/lab4.egg-info/entry_points.txt
+[4.521s] writing requirements to ../../build/lab4/lab4.egg-info/requires.txt
+[4.525s] writing top-level names to ../../build/lab4/lab4.egg-info/top_level.txt
+[4.539s] reading manifest file '../../build/lab4/lab4.egg-info/SOURCES.txt'
+[4.548s] writing manifest file '../../build/lab4/lab4.egg-info/SOURCES.txt'
+[4.550s] running build
+[4.550s] running build_py
+[4.551s] copying lab4/go_to_specific_point_on_map.py -> /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build/lib/lab4
+[4.559s] running install
+[4.559s] running install_lib
+[4.565s] copying /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build/lib/lab4/go_to_specific_point_on_map.py -> /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4
+[4.577s] byte-compiling /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4/go_to_specific_point_on_map.py to go_to_specific_point_on_map.cpython-310.pyc
+[4.587s] running install_data
+[4.591s] running install_egg_info
+[4.596s] removing '/uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4-0.0.0-py3.10.egg-info' (and everything under it)
+[4.613s] Copying ../../build/lab4/lab4.egg-info to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4-0.0.0-py3.10.egg-info
+[4.688s] running install_scripts
+[4.736s] Installing go_to_pose script to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/lab4
+[4.742s] writing list of installed files to '/uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/install.log'
+[5.156s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab4' returned '0': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab4 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/install.log --single-version-externally-managed

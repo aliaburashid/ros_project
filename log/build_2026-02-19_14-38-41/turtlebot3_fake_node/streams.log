@@ -1,0 +1,33 @@
+[0.197s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake /uolstore/home/users/fy22ayyy/ros2_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node
+[2.222s] -- The C compiler identification is GNU 11.4.0
+[2.638s] -- The CXX compiler identification is GNU 11.4.0
+[2.665s] -- Detecting C compiler ABI info
+[3.085s] -- Detecting C compiler ABI info - done
+[3.101s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.101s] -- Detecting C compile features
+[3.122s] -- Detecting C compile features - done
+[3.146s] -- Detecting CXX compiler ABI info
+[3.703s] -- Detecting CXX compiler ABI info - done
+[3.716s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.716s] -- Detecting CXX compile features
+[3.716s] -- Detecting CXX compile features - done
+[3.748s] [31mCMake Error at CMakeLists.txt:18 (find_package):
+[3.749s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[3.749s]   has asked CMake to find a package configuration file provided by
+[3.749s]   "ament_cmake", but CMake did not find one.
+[3.749s] 
+[3.749s]   Could not find a package configuration file provided by "ament_cmake" with
+[3.749s]   any of the following names:
+[3.749s] 
+[3.749s]     ament_cmakeConfig.cmake
+[3.749s]     ament_cmake-config.cmake
+[3.749s] 
+[3.749s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[3.749s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[3.749s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[3.749s]   has been installed.
+[3.749s] 
+[3.749s] [0m
+[3.751s] -- Configuring incomplete, errors occurred!
+[3.751s] See also "/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node/CMakeFiles/CMakeOutput.log".
+[3.765s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node' returned '1': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake /uolstore/home/users/fy22ayyy/ros2_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node

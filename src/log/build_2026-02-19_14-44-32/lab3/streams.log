@@ -1,0 +1,37 @@
+[1.791s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab3': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/lab3 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/install.log --single-version-externally-managed
+[2.106s] running egg_info
+[2.106s] creating ../build/lab3/lab3.egg-info
+[2.109s] writing ../build/lab3/lab3.egg-info/PKG-INFO
+[2.117s] writing dependency_links to ../build/lab3/lab3.egg-info/dependency_links.txt
+[2.121s] writing entry points to ../build/lab3/lab3.egg-info/entry_points.txt
+[2.126s] writing requirements to ../build/lab3/lab3.egg-info/requires.txt
+[2.129s] writing top-level names to ../build/lab3/lab3.egg-info/top_level.txt
+[2.134s] writing manifest file '../build/lab3/lab3.egg-info/SOURCES.txt'
+[2.143s] reading manifest file '../build/lab3/lab3.egg-info/SOURCES.txt'
+[2.147s] writing manifest file '../build/lab3/lab3.egg-info/SOURCES.txt'
+[2.150s] running build
+[2.150s] running build_py
+[2.152s] creating /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build
+[2.153s] creating /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build/lib
+[2.155s] creating /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build/lib/lab3
+[2.158s] copying lab3/__init__.py -> /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build/lib/lab3
+[2.164s] copying lab3/firstwalk.py -> /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build/lib/lab3
+[2.169s] running install
+[2.170s] running install_lib
+[2.174s] creating /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/python3.10/site-packages/lab3
+[2.176s] copying /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build/lib/lab3/__init__.py -> /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/python3.10/site-packages/lab3
+[2.181s] copying /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build/lib/lab3/firstwalk.py -> /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/python3.10/site-packages/lab3
+[2.190s] byte-compiling /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/python3.10/site-packages/lab3/__init__.py to __init__.cpython-310.pyc
+[2.198s] byte-compiling /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/python3.10/site-packages/lab3/firstwalk.py to firstwalk.cpython-310.pyc
+[2.206s] running install_data
+[2.208s] creating /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/share/ament_index
+[2.210s] creating /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/share/ament_index/resource_index
+[2.212s] creating /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/share/ament_index/resource_index/packages
+[2.215s] copying resource/lab3 -> /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/share/ament_index/resource_index/packages
+[2.222s] copying package.xml -> /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/share/lab3
+[2.228s] running install_egg_info
+[2.231s] Copying ../build/lab3/lab3.egg-info to /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/python3.10/site-packages/lab3-0.0.0-py3.10.egg-info
+[2.305s] running install_scripts
+[2.325s] Installing firstwalk script to /uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/lab3
+[2.332s] writing list of installed files to '/uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/install.log'
+[2.356s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab3' returned '0': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/lab3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/lab3 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/src/build/lab3/install.log --single-version-externally-managed

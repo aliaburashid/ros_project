@@ -1,0 +1,33 @@
+[0.184s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_gazebo': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake /uolstore/home/users/fy22ayyy/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_gazebo
+[2.197s] -- The C compiler identification is GNU 11.4.0
+[2.614s] -- The CXX compiler identification is GNU 11.4.0
+[2.642s] -- Detecting C compiler ABI info
+[3.060s] -- Detecting C compiler ABI info - done
+[3.074s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.075s] -- Detecting C compile features
+[3.099s] -- Detecting C compile features - done
+[3.124s] -- Detecting CXX compiler ABI info
+[3.681s] -- Detecting CXX compiler ABI info - done
+[3.695s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.695s] -- Detecting CXX compile features
+[3.696s] -- Detecting CXX compile features - done
+[3.727s] [31mCMake Error at CMakeLists.txt:22 (find_package):
+[3.727s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[3.727s]   has asked CMake to find a package configuration file provided by
+[3.727s]   "ament_cmake", but CMake did not find one.
+[3.727s] 
+[3.727s]   Could not find a package configuration file provided by "ament_cmake" with
+[3.727s]   any of the following names:
+[3.727s] 
+[3.727s]     ament_cmakeConfig.cmake
+[3.727s]     ament_cmake-config.cmake
+[3.727s] 
+[3.727s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[3.727s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[3.727s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[3.727s]   has been installed.
+[3.727s] 
+[3.727s] [0m
+[3.729s] -- Configuring incomplete, errors occurred!
+[3.729s] See also "/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_gazebo/CMakeFiles/CMakeOutput.log".
+[3.785s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_gazebo' returned '1': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake /uolstore/home/users/fy22ayyy/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_gazebo

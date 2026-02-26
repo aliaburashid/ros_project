@@ -1,0 +1,13 @@
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/uninstall.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/turtlebot3_gazebo_uninstall.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/turtlebot3_drive.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/obstacle1.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/obstacle2.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/obstacles.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/test.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/edit_cache.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/rebuild_cache.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/list_install_components.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/install.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/install/local.dir
+/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_gazebo/CMakeFiles/install/strip.dir

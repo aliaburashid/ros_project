@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/uolstore/home/users/fy22ayyy/ros2_ws/install/lab1/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/uolstore/home/users/fy22ayyy/ros2_ws/install/lab1/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

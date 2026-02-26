@@ -1,0 +1,24 @@
+[1.212s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab2': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/build/lab2/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/install/lab2/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab2 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/build/lab2/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/build/lab2/install.log --single-version-externally-managed
+[1.453s] running egg_info
+[1.454s] writing ../../build/lab2/lab2.egg-info/PKG-INFO
+[1.458s] writing dependency_links to ../../build/lab2/lab2.egg-info/dependency_links.txt
+[1.462s] writing entry points to ../../build/lab2/lab2.egg-info/entry_points.txt
+[1.465s] writing requirements to ../../build/lab2/lab2.egg-info/requires.txt
+[1.467s] writing top-level names to ../../build/lab2/lab2.egg-info/top_level.txt
+[1.478s] reading manifest file '../../build/lab2/lab2.egg-info/SOURCES.txt'
+[1.483s] writing manifest file '../../build/lab2/lab2.egg-info/SOURCES.txt'
+[1.485s] running build
+[1.485s] running build_py
+[1.490s] running install
+[1.490s] running install_lib
+[1.497s] running install_data
+[1.501s] running install_egg_info
+[1.502s] removing '/uolstore/home/users/fy22ayyy/ros2_ws/install/lab2/lib/python3.10/site-packages/lab2-0.0.0-py3.10.egg-info' (and everything under it)
+[1.516s] Copying ../../build/lab2/lab2.egg-info to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab2/lib/python3.10/site-packages/lab2-0.0.0-py3.10.egg-info
+[1.556s] running install_scripts
+[1.573s] Installing listener script to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab2/lib/lab2
+[1.576s] Installing numeric_listener script to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab2/lib/lab2
+[1.580s] Installing numeric_talker script to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab2/lib/lab2
+[1.583s] Installing talker script to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab2/lib/lab2
+[1.587s] writing list of installed files to '/uolstore/home/users/fy22ayyy/ros2_ws/build/lab2/install.log'
+[1.833s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab2' returned '0': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/build/lab2/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/install/lab2/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab2 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/build/lab2/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/build/lab2/install.log --single-version-externally-managed

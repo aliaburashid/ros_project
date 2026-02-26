@@ -1,0 +1,3 @@
+[console_scripts]
+hello = lab1.hello:main
+

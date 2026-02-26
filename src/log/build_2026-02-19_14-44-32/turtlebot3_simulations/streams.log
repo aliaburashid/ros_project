@@ -1,0 +1,43 @@
+[0.088s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:/opt/ros/humble PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake /uolstore/home/users/fy22ayyy/ros2_ws/src/turtlebot3_simulations/turtlebot3_simulations -DCMAKE_INSTALL_PREFIX=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations
+[0.184s] -- The C compiler identification is GNU 11.4.0
+[0.275s] -- The CXX compiler identification is GNU 11.4.0
+[0.296s] -- Detecting C compiler ABI info
+[0.504s] -- Detecting C compiler ABI info - done
+[0.516s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.516s] -- Detecting C compile features
+[0.517s] -- Detecting C compile features - done
+[0.534s] -- Detecting CXX compiler ABI info
+[0.743s] -- Detecting CXX compiler ABI info - done
+[0.755s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.755s] -- Detecting CXX compile features
+[0.756s] -- Detecting CXX compile features - done
+[0.781s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.947s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.351s] -- Configuring done
+[1.464s] -- Generating done
+[1.495s] -- Build files have been written to: /uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations
+[1.497s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:/opt/ros/humble PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake /uolstore/home/users/fy22ayyy/ros2_ws/src/turtlebot3_simulations/turtlebot3_simulations -DCMAKE_INSTALL_PREFIX=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations
+[1.502s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:/opt/ros/humble PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --build /uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations -- -j16 -l16
+[1.514s] gmake: Warning: File 'Makefile' has modification time 6.2 s in the future
+[1.540s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 6.2 s in the future
+[1.540s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[1.547s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[1.548s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:/opt/ros/humble PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --build /uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations -- -j16 -l16
+[1.574s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:/opt/ros/humble PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --install /uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations
+[1.582s] -- Install configuration: ""
+[1.591s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+[1.603s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+[1.616s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+[1.624s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+[1.632s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+[1.640s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+[1.649s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+[1.691s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+[1.703s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+[1.712s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+[1.725s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+[1.740s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+[1.751s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+[1.760s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+[1.769s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml
+[1.781s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_gazebo:/uolstore/home/users/fy22ayyy/ros2_ws/src/install/turtlebot3_fake_node:/opt/ros/humble PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --install /uolstore/home/users/fy22ayyy/ros2_ws/src/build/turtlebot3_simulations

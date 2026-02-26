@@ -1,0 +1,4 @@
+Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --build /uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node -- -j16 -l16
+Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node' returned '0': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --build /uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node -- -j16 -l16
+Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --install /uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node
+Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node' returned '0': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --install /uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node

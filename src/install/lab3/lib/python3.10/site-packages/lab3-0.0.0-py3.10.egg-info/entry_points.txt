@@ -1,0 +1,3 @@
+[console_scripts]
+firstwalk = lab3.firstwalk:main
+

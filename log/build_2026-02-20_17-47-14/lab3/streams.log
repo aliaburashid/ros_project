@@ -1,0 +1,24 @@
+[1.554s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab3': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/install/lab3/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab3 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/install.log --single-version-externally-managed
+[1.823s] running egg_info
+[1.824s] writing ../../build/lab3/lab3.egg-info/PKG-INFO
+[1.830s] writing dependency_links to ../../build/lab3/lab3.egg-info/dependency_links.txt
+[1.833s] writing entry points to ../../build/lab3/lab3.egg-info/entry_points.txt
+[1.836s] writing requirements to ../../build/lab3/lab3.egg-info/requires.txt
+[1.840s] writing top-level names to ../../build/lab3/lab3.egg-info/top_level.txt
+[1.848s] reading manifest file '../../build/lab3/lab3.egg-info/SOURCES.txt'
+[1.852s] writing manifest file '../../build/lab3/lab3.egg-info/SOURCES.txt'
+[1.855s] running build
+[1.855s] running build_py
+[1.859s] copying lab3/firstwalk.py -> /uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/build/lib/lab3
+[1.864s] running install
+[1.865s] running install_lib
+[1.868s] copying /uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/build/lib/lab3/firstwalk.py -> /uolstore/home/users/fy22ayyy/ros2_ws/install/lab3/lib/python3.10/site-packages/lab3
+[1.877s] byte-compiling /uolstore/home/users/fy22ayyy/ros2_ws/install/lab3/lib/python3.10/site-packages/lab3/firstwalk.py to firstwalk.cpython-310.pyc
+[1.883s] running install_data
+[1.887s] running install_egg_info
+[1.889s] removing '/uolstore/home/users/fy22ayyy/ros2_ws/install/lab3/lib/python3.10/site-packages/lab3-0.0.0-py3.10.egg-info' (and everything under it)
+[1.901s] Copying ../../build/lab3/lab3.egg-info to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab3/lib/python3.10/site-packages/lab3-0.0.0-py3.10.egg-info
+[1.953s] running install_scripts
+[1.979s] Installing firstwalk script to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab3/lib/lab3
+[1.983s] writing list of installed files to '/uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/install.log'
+[2.169s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab3' returned '0': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/install/lab3/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab3 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/build/lab3/install.log --single-version-externally-managed

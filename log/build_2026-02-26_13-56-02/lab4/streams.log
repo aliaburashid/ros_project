@@ -1,0 +1,37 @@
+[1.773s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab4': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab4 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/install.log --single-version-externally-managed
+[2.014s] running egg_info
+[2.014s] creating ../../build/lab4/lab4.egg-info
+[2.015s] writing ../../build/lab4/lab4.egg-info/PKG-INFO
+[2.021s] writing dependency_links to ../../build/lab4/lab4.egg-info/dependency_links.txt
+[2.025s] writing entry points to ../../build/lab4/lab4.egg-info/entry_points.txt
+[2.027s] writing requirements to ../../build/lab4/lab4.egg-info/requires.txt
+[2.029s] writing top-level names to ../../build/lab4/lab4.egg-info/top_level.txt
+[2.032s] writing manifest file '../../build/lab4/lab4.egg-info/SOURCES.txt'
+[2.042s] reading manifest file '../../build/lab4/lab4.egg-info/SOURCES.txt'
+[2.046s] writing manifest file '../../build/lab4/lab4.egg-info/SOURCES.txt'
+[2.047s] running build
+[2.047s] running build_py
+[2.049s] creating /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build
+[2.050s] creating /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build/lib
+[2.051s] creating /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build/lib/lab4
+[2.053s] copying lab4/__init__.py -> /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build/lib/lab4
+[2.058s] copying lab4/go_to_specific_point_on_map.py -> /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build/lib/lab4
+[2.062s] running install
+[2.063s] running install_lib
+[2.068s] creating /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4
+[2.069s] copying /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build/lib/lab4/__init__.py -> /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4
+[2.073s] copying /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build/lib/lab4/go_to_specific_point_on_map.py -> /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4
+[2.081s] byte-compiling /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4/__init__.py to __init__.cpython-310.pyc
+[2.088s] byte-compiling /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4/go_to_specific_point_on_map.py to go_to_specific_point_on_map.cpython-310.pyc
+[2.094s] running install_data
+[2.095s] creating /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/share/ament_index
+[2.096s] creating /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/share/ament_index/resource_index
+[2.098s] creating /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/share/ament_index/resource_index/packages
+[2.101s] copying resource/lab4 -> /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/share/ament_index/resource_index/packages
+[2.106s] copying package.xml -> /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/share/lab4
+[2.111s] running install_egg_info
+[2.114s] Copying ../../build/lab4/lab4.egg-info to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages/lab4-0.0.0-py3.10.egg-info
+[2.177s] running install_scripts
+[2.199s] Installing go_to_pose script to /uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/lab4
+[2.204s] writing list of installed files to '/uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/install.log'
+[2.286s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/src/lab4' returned '0': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/prefix_override:/uolstore/home/users/fy22ayyy/ros2_ws/install/lab4/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab4 build --build-base /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/build install --record /uolstore/home/users/fy22ayyy/ros2_ws/build/lab4/install.log --single-version-externally-managed

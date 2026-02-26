@@ -1,0 +1,15 @@
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+/uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml

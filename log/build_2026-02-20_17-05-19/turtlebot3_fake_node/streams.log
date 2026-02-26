@@ -1,0 +1,37 @@
+[0.186s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --build /uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node -- -j16 -l16
+[0.730s] [35m[1mConsolidate compiler generated dependencies of target turtlebot3_fake_node[0m
+[0.730s] [100%] Built target turtlebot3_fake_node
+[0.730s] gmake[2]: Warning: File 'CMakeFiles/turtlebot3_fake_node.dir/compiler_depend.make' has modification time 6.3 s in the future
+[0.730s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.732s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node' returned '0': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --build /uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node -- -j16 -l16
+[1.015s] Invoking command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --install /uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node
+[1.027s] -- Install configuration: ""
+[1.033s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[1.039s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch
+[1.042s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[1.044s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[1.045s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param
+[1.048s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[1.050s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[1.051s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[1.052s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/include/
+[1.055s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node
+[1.058s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[1.061s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[1.063s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[1.065s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[1.066s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[1.067s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[1.069s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[1.070s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[1.071s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[1.072s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[1.074s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[1.075s] -- Installing: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[1.085s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[1.087s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.088s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.089s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[1.090s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[1.091s] -- Up-to-date: /uolstore/home/users/fy22ayyy/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[1.096s] Invoked command in '/uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node' returned '0': PS1=[COMP3631] Singularity> \w $ /usr/bin/cmake --install /uolstore/home/users/fy22ayyy/ros2_ws/build/turtlebot3_fake_node

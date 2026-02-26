@@ -1,0 +1,5 @@
+[console_scripts]
+exercise1 = lab3.exercise1:main
+exercise2 = lab3.exercise2:main
+firstwalk = lab3.firstwalk:main
+
